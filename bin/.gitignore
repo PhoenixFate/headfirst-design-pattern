@@ -1,0 +1,15 @@
+/.DS_Store
+/adapter_pattern/
+/command_pattern/
+/composite_pattern/
+/decoractor_pattern/
+/facade_pattern/
+/factory_pattern/
+/iterator_pattern/
+/observer_pattern/
+/observer_util/
+/proxy_pattern/
+/singleton_pattern/
+/state_pattern/
+/strategy_pattern/
+/template_method_pattern/
